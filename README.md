@@ -1,4 +1,4 @@
-# Infix To Postfix
+# Infix To Postfix Calculator
 This code takes an infix expression and coverts it into a postfix expression. 
 It performs this with the use of a stack, called MyStack.
 Use of spaces are optional
